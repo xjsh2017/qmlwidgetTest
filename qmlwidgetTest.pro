@@ -22,4 +22,4 @@ HEADERS  += mainwindow.h \
 FORMS    += mainwindow.ui
 
 RESOURCES += \
-    $$[QT_INSTALL_QML]/XjQmlUi/icons/icons.qrc
+    $$[QT_INSTALL_QML]/icons/icons_all.qrc
